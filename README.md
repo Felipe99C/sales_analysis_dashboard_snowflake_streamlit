@@ -36,3 +36,26 @@ The application implements a full analytics cycle:
 * Secure connection using Streamlit secrets management
 * Session management for efficient resource usage
 * SQL-based transformations leveraging Snowflake's compute power
+
+
+## Dashboard Preview
+
+### Main Dashboard - KPIs and Sales Overview
+![Dashboard Overview](img/imagem1.png)
+*Key metrics: Total Revenue (R$ 216K), Transactions (366), Average Ticket (R$ 592), and sales breakdown by product and category.*
+
+### Sales Trend Over Time
+![Sales Trend](img/imagem2.png)
+*Multi-line chart showing sales performance across different cities throughout the year.*
+
+### Top Performers Analysis
+![Top Performers](img/imagem3.png)
+*Rankings for top 10 salespersons and top 10 stores by total sales.*
+
+### Pareto Analysis (80/20 Rule)
+![Pareto Analysis](img/imagem4.png)
+*Identifies that 7 products (70%) generate 80% of total sales, following the Pareto principle.*
+
+### Seasonality Analysis
+![Seasonality](img/imagem5.png)
+*Monthly sales patterns and quarterly performance breakdown.*
