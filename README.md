@@ -1,6 +1,4 @@
-# sales analysis dashboard [snowflake + streamlit]
-
-# Sales Analysis Dashboard
+# Sales Analysis Dashboard [Snowflake + Streamlit]
 
 This project demonstrates a complete data analytics workflow integrating Snowflake as a data warehouse with Streamlit for interactive visualization. The dashboard provides real-time sales insights and performance metrics through optimized SQL queries and dynamic filtering.
 
