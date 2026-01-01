@@ -1,0 +1,11 @@
+id_cliente,nome,endereço,cidade,estado
+1,Maria Silva,"Rua das Flores, 123",São Paulo,SP
+2,João Souza,"Av. Brasil, 456",Rio de Janeiro,RJ
+3,Ana Costa,"Praça da Árvore, 789",Belo Horizonte,MG
+4,Carlos Andrade,"Rua do Sol, 101",Curitiba,PR
+5,Fernanda Gomes,"Av. Boa Viagem, 202",Recife,PE
+6,Lucas Martins,"Largo dos Leões, 303",Porto Alegre,RS
+7,Patricia Lima,"Rua das Orquídeas, 404",Salvador,BA
+8,Rafael Dias,"Av. Central, 505",Brasília,DF
+9,Cláudia Rocha,"Praça do Mercado, 606",Fortaleza,CE
+10,Eduardo Pereira,"Rua da Harmonia, 707",Manaus,AM
